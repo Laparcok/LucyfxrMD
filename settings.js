@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6283819082780']
-global.premium = ['6283819082780']
-global.ownernomer = '6283819082780'
-global.ownername = 'Ryutenzo'
-global.botname = 'Lucyfxr'
-global.footer = 'Lucyfxr Devils.'
-global.ig = 'https://github.com/Ryutenz'
+global.owner = ['6282146218274']
+global.premium = ['6282146218274']
+global.ownernomer = '6282146218274'
+global.ownername = 'RielKiXd'
+global.botname = 'RIEL-MD'
+global.footer = ' RIEL'
+global.ig = 'https://github.com/Rieltod'
 global.region = 'India, NorthEast, Indonesia'
 global.sc = 'https://github.com/Ryutenz/LucyfxrMD'
 global.myweb = 'http://botwa.rf.gd/'
-global.packname = 'Ryutenzo'
-global.author = 'wa.me/6283819082780'
+global.packname = 'RIEL'
+global.author = 'wa.me/6282146218274'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
